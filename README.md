@@ -17,6 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 Screenshots:
 ![Capture](https://github.com/Deathknight101/Flutter-Quiz/assets/120172437/cd437f49-d6c6-4dfe-9184-7cc3513248a6)
+
 ![Capture 2](https://github.com/Deathknight101/Flutter-Quiz/assets/120172437/9180e752-31d8-4172-adc8-afa9f9a22f5c)
+
 ![Capture 3](https://github.com/Deathknight101/Flutter-Quiz/assets/120172437/d4c19714-fd90-4769-984b-fd0ce71679b4)
+
 ![Capture 4](https://github.com/Deathknight101/Flutter-Quiz/assets/120172437/ff3e5abf-ab3f-4838-b084-3be64b3a6504)
