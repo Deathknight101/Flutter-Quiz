@@ -16,7 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Screenshots:
-![Capture](https://github.com/Deathknight101/Flutter-Quiz/assets/120172437/cd437f49-d6c6-4dfe-9184-7cc3513248a6)
+
+![Capture 1](https://github.com/Deathknight101/Flutter-Quiz/assets/120172437/cd437f49-d6c6-4dfe-9184-7cc3513248a6)
 
 ![Capture 2](https://github.com/Deathknight101/Flutter-Quiz/assets/120172437/9180e752-31d8-4172-adc8-afa9f9a22f5c)
 
