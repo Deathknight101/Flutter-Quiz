@@ -37,4 +37,22 @@ const questions = [
       'Skylar White',
     ],
   ),
+  QuizQuestion(
+    'Who is Oppenheimer?',
+    [
+      'A Bomber',
+      'A Musician',
+      'Literally Me',
+      'A Spy',
+    ],
+  ),
+  QuizQuestion(
+    'Who is Ryan Gosling',
+    [
+      'Literally Me ',
+      'A Canadian Actor',
+      'A Director',
+      'A Driver',
+    ],
+  ),
 ];
